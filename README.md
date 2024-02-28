@@ -19,4 +19,4 @@
 ## ⚙️ My stats
 <img src="https://komarev.com/ghpvc/?username=nobregaX">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nobregaX&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nobregaX&show_icons=true&include_all_commits=true&count_private=true)
