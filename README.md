@@ -6,10 +6,10 @@
 - 📱 Mobile devices i own are Motorola Edge 30 (dubai).
 
 ## 💻 Current Work Machine
-### Samsung Essentials E20
-- Intel Celeron 4205U;
-- 8GB DDR4 2133Mhz RAM;
-- 480GB Sata 3 SSD.
+### Asus Vivobook X15
+- Intel Core I5-12450H;
+- 16GB DDR4 3200Mhz RAM;
+- 512GB M2 NVMe SSD.
 
 ## 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&label=)](mailto:otavio.nobregadas@gmail.com)
