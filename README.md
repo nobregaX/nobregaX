@@ -2,7 +2,7 @@
 
 - 💻 Technology enthusiast;
 - 🔭 Future Software Engineer;
-- 🌱 I’m currently learning advanced excel and programming logic;
+- 🌱 I’m currently learning ...
 - 📱 Mobile devices i own are Motorola Edge 30 (dubai).
 
 ## 💻 Current Work Machine
