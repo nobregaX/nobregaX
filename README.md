@@ -2,7 +2,7 @@
 
 - 💻 Technology enthusiast;
 - 🔭 Future Software Engineer;
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying System Analysis and Development at FIAP;
 - 📱 Mobile devices i own are Samsung S23 5G (SM-S911B)
 
 ## 💻 Current Work Machine
