@@ -3,7 +3,7 @@
 - 💻 Technology enthusiast;
 - 🔭 Future Software Engineer;
 - 🌱 I’m currently learning ...
-- 📱 Mobile devices i own are Motorola Edge 30 (dubai).
+- 📱 Mobile devices i own are Samsung S23 5G (SM-S911B)
 
 ## 💻 Current Work Machine
 ### Asus Vivobook X15
