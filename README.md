@@ -6,9 +6,10 @@
 - 📱 Mobile devices i own are Samsung S23 5G (SM-S911B)
 
 ## 💻 Current Work Machine
-### Asus Vivobook X15
-- Intel Core I5-12450H;
-- 16GB DDR4 3200Mhz RAM;
+### Acer Nitro V15 (ANV15-51)
+- Intel Core I5-13420H;
+- RTX 3050 6gb;
+- 16GB DDR5 5600Mhz RAM;
 - 512GB M2 NVMe SSD.
 
 ## 📫 How to reach me:
