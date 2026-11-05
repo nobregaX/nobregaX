@@ -14,6 +14,7 @@ ro.me.hobby=powerbuilding (bodybuilding + powerlifting)
 ### `[ro.hardware.laptop]`
 ```ini
 # Portable Workstation
+ro.laptop.model=Acer Nitro V15 (ANV15-51)
 ro.laptop.cpu=Intel Core i5-13420H
 ro.laptop.gpu=Nvidia GeForce RTX 3050
 ro.laptop.ram=32GB DDR5 5600MT/s
