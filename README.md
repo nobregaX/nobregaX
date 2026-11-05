@@ -7,7 +7,7 @@ ro.me.last_name=Nobrega
 ro.me.age=Unknown
 ro.me.vocational_course=Logistics and Supply Chain
 ro.me.undergraduate_degree=Systems Analysis and Development at FIAP
-ro.me.hobby=powerbuilding (bodybuilding + powerlifting)
+ro.me.hobby=powerbuilding (powerlifting + bodybuilding)
 ```
 
 ## 🛠️ Tech Stack
