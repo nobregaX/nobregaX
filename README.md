@@ -10,6 +10,16 @@ ro.me.undergraduate_degree=Systems Analysis and Development at FIAP
 ro.me.hobby=powerbuilding (bodybuilding + powerlifting)
 ```
 
+## 🛠️ Tech Stack
+### `[ro.dev.skills]`
+```ini
+# System capabilities
+ro.skills.languages=Java, Python, SQL
+ro.skills.focus=Data Engineering & Backend Systems
+ro.skills.tools=Docker, PostgreSQL, Oracle DB, Git
+ro.skills.currently_learning=Data Science
+```
+
 ## 💻 Development machine
 ### `[ro.hardware.laptop]`
 ```ini
